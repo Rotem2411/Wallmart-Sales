@@ -1,7 +1,7 @@
 # Wallmart-Sales
 ### Sales and weather prediction
 
-**Data**
+*Data*
 
 You have been provided with sales data (sales.csv) for 111 products whose sales may be affected by the weather (such as milk, bread, umbrellas, etc.). These 111 products are sold in stores at 45 different Walmart locations. Some of the products may be a similar item (such as milk) but have a different id in different stores/regions/suppliers.
 The 45 locations are covered by 20 weather stations (i.e., some of the stores are nearby and share a weather station). The key data (key.csv) indicates for each store to which weather station it belongs.
